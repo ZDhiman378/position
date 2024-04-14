@@ -1,0 +1,113 @@
+.part1{
+	position: relative;
+	height: 880px;
+	width: 1870px;
+	border: 8px solid black;
+}
+
+.cont1{
+	border: 3px red;
+	background-color: rgb(30, 30, 181);
+	width: 150px;
+	height: 150px;
+	margin:0px;
+	position: absolute;
+}
+.cont2{
+	border: 3 px brown;
+	background-color: aqua;
+	height: 150px;
+	width: 150px;
+	margin-left: 150px;
+	position: absolute;
+	top: 150px;
+}
+.cont3{
+	border: 3px black;
+	background-color: brown;
+	height: 150px;
+	width: 150px;
+	margin-left: 300px;
+	position: absolute;	
+	top: 300px;
+	
+}
+.cont4{
+	border: 3xp black;
+	background-color: chocolate;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	right: 0px;
+}
+.cont5{
+	border: 3px black;
+	background-color: chartreuse;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	right: 150px;
+	top: 150px;
+}
+.cont6{
+	border: 3px black;
+	background-color: red;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	right: 300px;
+	top: 300px;
+}
+.ds1{
+	border: 3px black;
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+.ds2{
+	border: 3px black;
+	background-color: yellow;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	bottom: 150px;
+	left: 150px;
+}
+.ds3{
+	border: 3px black;
+	background-color: aquamarine;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	bottom: 300px;
+	left: 300px;
+}.ds4{
+	border: 3px black;
+	background-color: violet;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+.ds5{
+	border: 3px black;
+	background-color: blue;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	bottom: 150px;
+	right:  150px;
+}
+.ds6{
+	border: 3px black;
+	background-color: gray;
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	bottom: 300px;
+	right: 300px;
+}
